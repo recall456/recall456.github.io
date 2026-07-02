@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Recall</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>http://example.com/icon.png</icon>
+  <id>http://example.com/</id>
+  <link href="http://example.com/" rel="alternate"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Recall</rights>
+  <subtitle>路漫漫其修远兮，吾将上下而求索。</subtitle>
+  <title>木叶飞舞之处，火亦生生不息</title>
+  <updated>2026-07-01T09:32:07.795Z</updated>
+  <entry>
+    <author>
+      <name>Recall</name>
+    </author>
+    <id>http://example.com/2026/07/01/hello-world/</id>
+    <link href="http://example.com/2026/07/01/hello-world/"/>
+    <published>2026-07-01T09:32:07.794Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-07-01T09:32:07.795Z</updated>
+  </entry>
+</feed>
